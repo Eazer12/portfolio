@@ -1,4 +1,4 @@
-# ITID Student
+# ITID Student Portfolio
 
 #### Technical Skills: C#, SQL, HTML/CSS, Java, Photoshop/Illustrator
 
